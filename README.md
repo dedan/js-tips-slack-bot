@@ -23,6 +23,7 @@ sudo apt-get install -y nodejs
 More installation help at https://github.com/nodesource/distributions#deb
 
 - Windows
+- 
 
 Go ahead to download the Windows binary at [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
